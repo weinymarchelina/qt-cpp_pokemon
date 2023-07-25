@@ -1,0 +1,105 @@
+DragonClaw Dragon Physical 80 100 15
+Ember Fire Special 40 100 25
+DragonBreath Dragon Special 60 100 20 PAR
+AirSlash Flying Physical 75 95 15
+Flamethrower Fire Special 90 100 15 BRN
+FlashCannon Steel Special 80 100 10
+WaterGun Water Special 40 100 25
+WaterPulse Water Special 60 100 20
+AquaTail Water Physical 90 90 10
+PoisonPowder Poison Status 0 75 35 PSN
+SeedBomb Grass Physical 80 100 15
+VineWhip Grass Physical 45 100 25
+SolarBeam Grass Special 120 100 10
+TakeDown Normal Physical 90 85 20
+RockSlide Rock Physical 75 90 10
+Crunch Dark Physical 80 100 15
+ShadowBall Ghost Special 80 100 15
+Psychic Psychic Special 90 100 10
+QuickAttack Normal Physical 40 100 30
+HiddenPower Normal Special 60 100 15
+VoltTackle Electric Physical 120 100 15
+Thunderbolt Electric Special 90 100 15
+IronTail Steel Physical 100 75 15
+ThunderShock Electric Special 40 100 30
+VoltSwitch Electric Special 70 100 20
+ThunderWave Electric Status 0 90 20
+Blizzard Ice Special 110 70 5
+GigaImpact Normal Physical 150 90 5
+DragonRush Dragon Physical 100 75 10
+FlareBlitz Fire Physical 120 100 15 BRN
+FireFang Fire Physical 65 95 15 BRN
+DragonRage Dragon Special 40 100 10
+DragonPulse Dragon Special 85 100 10
+Tackle Normal Physical 40 100 35
+SilverWind Bug Special 60 100 5
+Psychic Psychic Special 90 100 10
+AerialAce Flying Physical 60 100 20
+Dig Ground Physical 80 100 10
+IceBeam Ice Special 90 100 10
+IronTail Steel Physical 100 75 15
+BlazeKick Fire Physical 85 90 10 BRN
+SkyUppercut Fighting Physical 85 90 15
+MegaKick Normal Physical 120 75 5
+Overheat Fire Special 130 90 5
+FocusBlast Fighting Special 120 70 5
+NightSlash Dark Physical 70 100 15
+Retaliate Normal Physical 70 100 5
+HyperFusion Normal Physical 100 100 10
+SuckerPunch Dark Physical 80 100 5
+Slam Normal Physical 80 75 20
+ShadowClaw Ghost Physical 70 100 15
+HyperBeam Normal Special 150 90 5
+FusionFlare Fire Special 100 100 5
+Extrasensory Psychic Special 80 100 20
+GrassKnot Grass Special 80 100 20
+EarthPower Ground Special 90 100 10
+HyperVoice Normal Special 90 100 10
+CloseCombat Fighting Physical 120 100 5
+StoneEdge Rock Physical 100 80 5
+DarkPulse Dark Special 80 100 15
+ExtremeSpeed Normal Physical 80 100 5
+AirSlash Flying Special 75 95 15
+AuraSphere Fighting Special 80 100 20
+DragonRush Dragon Physical 100 75 10
+Earthquake Ground Physical 100 100 10
+StoneEdge Rock Physical 100 80 5
+FireBlast Fire Special 110 85 5
+FocusBlast Fighting Special 120 70 5
+HydroPump Water Special 110 80 5
+ShadowPunch Ghost Physical 60 100 20
+FocusPunch Fighting Physical 150 100 20
+MetalClaw Steel Physical 50 95 35
+Judgment Normal Special 100 100 10
+Dig Ground Physical 80 100 10
+DrillRun Ground Physical 80 95 10
+HiddenPower Normal Special 60 100 15
+VoltSwitch Electric Special 70 100 20
+Discharge Electric Special 80 100 15 PAR
+ElectroBall Electric Special 80 100 10
+Slash Normal Physical 70 100 20
+DragonTail Dragon Physical 60 90 10
+Assurance Dark Physical 60 100 10
+Crunch Dark Physical 80 100 15
+ThroatChop Dark Physical 80 100 15
+Earthquake Ground Physical 100 100 10
+PoisonJab Poison Physical 80 100 15
+AquaTail Water Physical 90 90 10
+LavaPlume Fire Special 80 100 15 BRN
+BodyPress Fighting Physical 80 100 10
+ClearSmog Poison Special 50 100 15
+ZenHeadbutt Psychic Physical 80 100 15
+DrainPunch Fighting Physical 75 100 10
+PlayRough Fairy Physical 80 100 15
+IronSteel Steel Physical 80 100 15
+BodyPress Fighting Physical 80 100 10
+Bite Dark Physical 60 100 25
+PowerGem Rock Special 80 100 10
+ShadowClaw Ghost Physical 70 100 15
+DrainPunch Fighting Physical 75 100 10
+MoonBlast Fairy Special 95 100 15
+BugBuzz Bug Special 90 100 10
+WrongAnswer Electric Physical 60 100 20
+CompileError Electric Special 80 100 20
+TimeLimitExceed Psychic Special 70 100 20
+ConnectionTimedOut Electric Status 0 100 10 PAR

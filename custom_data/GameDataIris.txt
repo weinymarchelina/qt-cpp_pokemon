@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Excadrill 4
+MetalClaw Dig FocusBlast DrillRun
+Emolga 4
+HiddenPower VoltSwitch Discharge ElectroBall
+Haxorus 4
+DragonTail Earthquake Crunch AirSlash

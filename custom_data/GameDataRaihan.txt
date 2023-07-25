@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Flygon 4
+DragonClaw Earthquake Crunch AirSlash
+Torkoal 4
+LavaPlume BodyPress SolarBeam ClearSmog
+Duraludon 4
+DragonClaw IronSteel StoneEdge BodyPress

@@ -1,0 +1,102 @@
+Venusaur
+2 Grass Poison
+187 147 148 167 167 145
+Charizard
+2 Fire Flying
+185 149 143 177 150 167
+Blastoise
+1 Water
+186 148 167 150 172 143
+Arcanine
+1 Fire
+192 163 157 137 143 167
+Umbreon
+2 Dark
+190 103 130 126 158 65
+Pikachu
+1 Electric
+154 139 112 139 112 173
+Snorlax
+1 Normal
+254 175 147 75 152 61
+Charizard-Mega-X
+2 Fire Dragon
+299 269 205 289 229 100
+要不要吃哈密瓜
+2 Dragon Fire
+308 277 195 356 195 230
+Arceus
+1 Normal
+720 120 120 120 120 120 120
+Beautifly
+2 Bug Flying
+184 124 99 134 149 159
+Glaceon
+1 Ice
+238 100 211 186 211 99
+Blaziken-Mega
+2 Fire Fighting
+260 187 122 171 126 167
+Zoroark
+1 Dark
+210 157 100 157 100 202
+Furret
+1 Normal
+198 132 99 87 99 151
+Reshiram
+2 Dragon Fire
+308 277 195 356 195 230
+Lucario
+2 Fighting Steel
+194 175 134 175 134 184
+Togekiss
+2 Fairy Flying
+198 83 131 103 150 121
+Garchomp
+2 Dragon Ground
+268 241 156 135 161 186
+Seismitoad
+2 Water Ground
+250 178 154 177 149 134
+Golurk
+2 Ground Ghost
+223 206 154 99 154 76
+Krookodile
+2 Ground Dark
+216 218 144 126 107 92
+Excadrill
+2 Ground Steel
+216 210 144 100 84 138
+Emolga
+2 Electric Flying
+170 123 90 123 90 118
+Haxorus
+1 Dragon
+202 222 134 104 108 136
+Flygon
+2 Ground Dragon
+198 158 119 138 119 171
+Torkoal
+1 Fire
+174 138 203 108 193 57
+Duraludon
+2 Steel Dragon
+203 133 133 197 133 115
+Persian
+1 Normal
+198 136 99 136 99 160
+Nidoking
+2 Poison Ground
+210 204 157 166 120 171
+Mewtwo
+1 Psychic
+244 227 197 346 197 277
+Shiny_Hisuian_Zorua
+2 Normal Ghost
+35 60 40 85 40 70
+Catbug
+2 Bug Fairy
+100 50 45 75 70 90
+Online_Judge
+2 Electric Psychic
+500 50 100 150 125 30

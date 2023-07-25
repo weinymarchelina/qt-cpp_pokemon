@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Beautifly 4
+Tackle SilverWind Psychic AerialAce
+Glaceon 4
+ShadowBall Dig IceBeam IronTail
+Blaziken-Mega 4
+BlazeKick SkyUppercut MegaKick Overheat

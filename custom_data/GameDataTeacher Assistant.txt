@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Shiny_Hisuian_Zorua 4
+ShadowBall TakeDown DarkPulse Dig
+Catbug 4
+SilverWind AirSlash MoonBlast BugBuzz
+Online_Judge 4
+WrongAnswer CompileError TimeLimitExceed ConnectionTimedOut

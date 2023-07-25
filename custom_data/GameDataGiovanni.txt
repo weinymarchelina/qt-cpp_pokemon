@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Persian 4
+Bite PowerGem ShadowClaw PlayRough
+Nidoking 4
+ThroatChop Earthquake PoisonJab AquaTail
+Mewtwo 4
+ZenHeadbutt Earthquake StoneEdge DrainPunch

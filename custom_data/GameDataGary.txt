@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+Arcanine 4
+Flamethrower TakeDown RockSlide Crunch
+Umbreon 4
+ShadowBall Psychic QuickAttack HiddenPower

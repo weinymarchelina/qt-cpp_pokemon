@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Pikachu 4
+VoltTackle Thunderbolt IronTail QuickAttack
+Snorlax 4
+ShadowBall Crunch Blizzard GigaImpact
+Charizard-Mega-X 4
+DragonRush FlareBlitz FireFang RockSlide
